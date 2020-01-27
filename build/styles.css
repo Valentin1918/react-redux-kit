@@ -1,0 +1,15 @@
+* {
+    font-family: 'Arial', sans-serif;
+}
+body {
+    margin: 0;
+}
+.container {
+    padding: 10px;
+    background: #6f1f1f;
+    position: fixed;
+}
+.message-container {
+    padding: 10px;
+    background: #FFFFFF;
+}
